@@ -8,6 +8,7 @@
 #Energy Lab General Git Use
 Advanced Simulation, Development and Workflows
 <br>
+<br>
 * Get a github free account
 * Get a sourcetree free account
 * Install the [Git.app](https://desktop.github.com/)
