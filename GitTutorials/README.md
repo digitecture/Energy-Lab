@@ -6,7 +6,7 @@
 
 <img src="/images/EL_logo.jpg" width="150" align = "left">
 #Energy Lab General Git Use
-<br>
+Advanced Simulation, Development and Workflows
 <br>
 * Get a github free account
 * Get a sourcetree free account
