@@ -9,8 +9,8 @@
 Advanced Research, Design, Simulation, Development and Workflows
 <br>
 <br>
-* Get a github free account
-* Get a sourcetree free account
+* Get a github free account [here](https://github.com/)
+* Get a sourcetree free account [here](https://id.atlassian.com/signup?application=mac&continue=https://my.atlassian.com/license/sourcetree)
 * Install the [Git.app](https://desktop.github.com/)
 * Install [SourceTree app](https://www.sourcetreeapp.com/)
 * Read this [page](https://confluence.atlassian.com/bitbucket/create-a-git-repository-759857290.html) for use of SourceTree online to work with Git 
