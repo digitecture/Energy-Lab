@@ -6,7 +6,7 @@
 
 <img src="/images/EL_logo.jpg" width="150" align = "left">
 #Energy Lab General Git Use
-Advanced Simulation, Development and Workflows
+Advanced Research, Design, Simulation, Development and Workflows
 <br>
 <br>
 * Get a github free account
