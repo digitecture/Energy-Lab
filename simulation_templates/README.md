@@ -1,2 +1,2 @@
 # Energy-Lab
-Energy Lab comprehensive resources uses in simulation work
+Energy Lab template resources used in simulation work
