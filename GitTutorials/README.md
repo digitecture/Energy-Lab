@@ -14,5 +14,5 @@ Advanced Research, Design, Simulation, Development and Workflows
 * Install the [Git.app](https://desktop.github.com/)
 * Install [SourceTree app](https://www.sourcetreeapp.com/)
 * Read this [page](https://confluence.atlassian.com/bitbucket/tutorial-learn-sourcetree-with-bitbucket-cloud-760120235.html) for use of SourceTree online to work with Git 
-* Connect SourceTree to EnergyLab Github Open Source by adding a local repository from our reseach folder location
+* Connect SourceTree to EnergyLab Github Open Source by adding a local repository from our research folder location
 * This will connect you to our GitHub Open Source weblink
